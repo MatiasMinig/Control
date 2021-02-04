@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{0: {'marca': 'Nike', 'modelo': 'remera', 'color': 'azul', 'precio': 100, 'cantidad': 1}, 45: {'marca': 'adidas', 'modelo': 'zapatillas', 'Color': 'negras', 'Precio': '20000', 'Cantidad': 300}}
+=======
+{0: {'marca': 'Nike', 'modelo': 'remera', 'color': 'azul', 'precio': 100, 'cantidad': 1}, 1: {'marca': 'fdsfds', 'modelo': 'fdsfds', 'color': 'fdsfds', 'precio': '233', 'cantidad': 1}}
+>>>>>>> d9ebb9fe67c18f57524e30887e1a4d55cceccdc8
